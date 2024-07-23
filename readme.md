@@ -1,14 +1,14 @@
+# [node-proxy-logger](https://www.npmjs.com/package/node-proxy-logger)
 
-description
-----
+## description
+
 this method is intended to display graphs call methods in the form of diagrams https://mermaid.js.org/
 for your application
 
 ![image](https://github.com/user-attachments/assets/683fe054-dcc7-4f8f-8b50-cec8132fd4b1)
 
 
-usage
-----
+## usage
 
 For constructor:
 

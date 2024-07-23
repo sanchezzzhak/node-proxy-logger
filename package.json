@@ -1,0 +1,27 @@
+{
+  "name": "node-proxy-logger",
+  "version": "1.0.0",
+  "description": "Visual representation of method calls in the form of a graph",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanchezzzhak/node-proxy-logger.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sanchezzzhak/node-proxy-logger/issues"
+  },
+  "homepage": "https://github.com/sanchezzzhak/node-proxy-logger#readme",
+  "dependencies": {
+  },
+  "engines": {
+    "node": ">= 20.x",
+    "npm": ">= 10.x"
+  },
+  "scripts": {},
+  "keywords": [
+    "proxy-logger",
+    "logger graph"
+  ],
+  "author": "sanchezzzhak",
+  "license": "ISC"
+}
