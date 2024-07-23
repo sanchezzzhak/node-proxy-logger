@@ -1,6 +1,6 @@
 {
   "name": "node-proxy-logger",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Visual representation of method calls in the form of a graph",
   "main": "index.js",
   "repository": {
