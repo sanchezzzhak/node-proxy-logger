@@ -13,7 +13,7 @@ for your application
 </details>
 
 <details>
-  <summary>Mermaid gitgub render</summary>
+  <summary>Mermaid github render</summary>
 
 ```mermaid
 graph TB
